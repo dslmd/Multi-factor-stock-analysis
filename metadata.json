@@ -1,0 +1,7 @@
+{
+  "name": "QuantEdge AI - Stock Analyzer",
+  "description": "A sophisticated 3-factor quantitative stock analysis platform using Value, Quality, and Momentum metrics powered by Gemini AI and Google Search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
